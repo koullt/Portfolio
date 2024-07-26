@@ -614,9 +614,12 @@ pre code {
 .row img{
   width: 250px;
   height: 200px;
-  margin-right: 100px;
-  margin-left: 410px;
-  margin-top: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 180px auto;
+
+
+
 
 
 }
